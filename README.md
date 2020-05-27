@@ -18,3 +18,4 @@ List of acronyms used by developers
 - **IANAL**: “I am not a lawyer”, but I smell licensing issues
 - **FWIW**: For what it's worth
 - **CTA**: Call to action
+- **DRY**: Do not repeat yourself
